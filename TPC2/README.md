@@ -12,4 +12,4 @@ Data Properties:
 - Instrumento: nomeInstrumento
 
 #### Ontologia no GraphDB
-!(Ontologia)[graphdb.png]
+![Ontologia](graphdb.png)
